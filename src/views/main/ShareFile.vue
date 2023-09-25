@@ -141,6 +141,7 @@
     );
     proxy.Message.success("复制成功");
   };
+  let a=1;
   </script>
   
   <style lang="scss" scoped>
